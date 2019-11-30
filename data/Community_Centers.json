@@ -1,0 +1,191 @@
+[
+  {
+    "CENTRE_NAME": "Britannia",
+    "LATITUDE": 49.2756,
+    "LONGITUDE": -123.0738,
+    "ADDRESS": "1661 Napier St",
+    "URLLINK": "http://vancouver.ca/parks/cc/britannia/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Carnegie Centre",
+    "LATITUDE": 49.2811,
+    "LONGITUDE": -123.1001,
+    "ADDRESS": "401 Main St",
+    "URLLINK": "http://vancouver.ca/commsvcs/CARNEGIECENTRE/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Roundhouse",
+    "LATITUDE": 49.2733,
+    "LONGITUDE": -123.1217,
+    "ADDRESS": "181 Roundhouse Mews",
+    "URLLINK": "http://vancouver.ca/parks/cc/roundhouse/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Coal Harbour",
+    "LATITUDE": 49.2902,
+    "LONGITUDE": -123.1259,
+    "ADDRESS": "480 Broughton St",
+    "URLLINK": "http://vancouver.ca/parks/cc/westend/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Marpole-Oakridge",
+    "LATITUDE": 49.2145,
+    "LONGITUDE": -123.1275,
+    "ADDRESS": "990 W 59th Av",
+    "URLLINK": "http://vancouver.ca/parks/cc/marpole/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Mount Pleasant",
+    "LATITUDE": 49.2643,
+    "LONGITUDE": -123.1002,
+    "ADDRESS": "1 Kingsway",
+    "URLLINK": "http://vancouver.ca/parks/cc/mtpleasant/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Renfrew Park",
+    "LATITUDE": 49.2524,
+    "LONGITUDE": -123.043,
+    "ADDRESS": "2929 E 22nd Av",
+    "URLLINK": "http://vancouver.ca/parks/cc/renfrew/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Hillcrest",
+    "LATITUDE": 49.2438,
+    "LONGITUDE": -123.1079,
+    "ADDRESS": "4575 Clancy Loranger Way",
+    "URLLINK": "http://vancouver.ca/parks-recreation-culture/hillcrest-centre.aspx"
+  },
+  {
+    "CENTRE_NAME": "Strathcona",
+    "LATITUDE": 49.2798,
+    "LONGITUDE": -123.0915,
+    "ADDRESS": "601 Keefer St",
+    "URLLINK": "http://vancouver.ca/parks/cc/strathcona/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Sunset",
+    "LATITUDE": 49.2229,
+    "LONGITUDE": -123.1006,
+    "ADDRESS": "6810 Main St",
+    "URLLINK": "http://vancouver.ca/parks/cc/sunset/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Thunderbird",
+    "LATITUDE": 49.2636,
+    "LONGITUDE": -123.0321,
+    "ADDRESS": "2311 Cassiar St",
+    "URLLINK": "http://vancouver.ca/parks/cc/thunderbird/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Trout Lake",
+    "LATITUDE": 49.2553,
+    "LONGITUDE": -123.0655,
+    "ADDRESS": "3360 Victoria Drive",
+    "URLLINK": "http://vancouver.ca/parks/cc/troutlake/index.htm"
+  },
+  {
+    "CENTRE_NAME": "West End",
+    "LATITUDE": 49.2899,
+    "LONGITUDE": -123.1361,
+    "ADDRESS": "870 Denman St",
+    "URLLINK": "http://vancouver.ca/parks/cc/westend/index.htm"
+  },
+  {
+    "CENTRE_NAME": "West Point Grey",
+    "LATITUDE": 49.2718,
+    "LONGITUDE": -123.2045,
+    "ADDRESS": "4397 W 2nd Av",
+    "URLLINK": "http://vancouver.ca/parks/cc/westptgrey/index.htm"
+  },
+  {
+    "CENTRE_NAME": "False Creek",
+    "LATITUDE": 49.2694,
+    "LONGITUDE": -123.134,
+    "ADDRESS": "1318 Cartwright St",
+    "URLLINK": "http://vancouver.ca/parks/cc/falsecreek/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Champlain Heights",
+    "LATITUDE": 49.2144,
+    "LONGITUDE": -123.0321,
+    "ADDRESS": "3350 Maquinna Drive",
+    "URLLINK": "http://vancouver.ca/parks/cc/champla/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Ray-Cam Co-Operative Center",
+    "LATITUDE": 49.2807,
+    "LONGITUDE": -123.0841,
+    "ADDRESS": "920 E Hastings St",
+    "URLLINK": "http://vancouver.ca/parks/cc/raycam/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Douglas Park",
+    "LATITUDE": 49.2529,
+    "LONGITUDE": -123.1213,
+    "ADDRESS": "801 W 22nd Av",
+    "URLLINK": "http://vancouver.ca/parks/cc/douglas/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Dunbar",
+    "LATITUDE": 49.2428,
+    "LONGITUDE": -123.1883,
+    "ADDRESS": "4747 Dunbar St",
+    "URLLINK": "http://vancouver.ca/parks/cc/dunbar/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Hastings",
+    "LATITUDE": 49.2809,
+    "LONGITUDE": -123.0393,
+    "ADDRESS": "3096 E Hastings St",
+    "URLLINK": "http://vancouver.ca/parks/cc/hastings/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Kensington",
+    "LATITUDE": 49.2385,
+    "LONGITUDE": -123.0755,
+    "ADDRESS": "5175 Dumfries St",
+    "URLLINK": "http://vancouver.ca/parks/cc/kensington/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Kerrisdale",
+    "LATITUDE": 49.2332,
+    "LONGITUDE": -123.1571,
+    "ADDRESS": "5851 West Boulevard",
+    "URLLINK": "http://vancouver.ca/parks/cc/kerrisdale/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Killarney",
+    "LATITUDE": 49.2274,
+    "LONGITUDE": -123.0444,
+    "ADDRESS": "6260 Killarney St",
+    "URLLINK": "http://vancouver.ca/parks/cc/killarney/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Kitsilano War Memorial",
+    "LATITUDE": 49.2621,
+    "LONGITUDE": -123.1601,
+    "ADDRESS": "2690 Larch St",
+    "URLLINK": "http://vancouver.ca/parks/cc/kitsilano/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Creekside",
+    "LATITUDE": 49.2718,
+    "LONGITUDE": -123.1056,
+    "ADDRESS": "1 Athletes Way",
+    "URLLINK": "http://vancouver.ca/parks/cc/creekside/index.htm"
+  },
+  {
+    "CENTRE_NAME": "Evelyne Saller Centre",
+    "LATITUDE": 49.2839,
+    "LONGITUDE": -123.0971,
+    "ADDRESS": "320 Alexander St",
+    "URLLINK": "http://vancouver.ca/parks-recreation-culture/evelyne-saller-centre.aspx"
+  },
+  {
+    "CENTRE_NAME": "Gathering Place Community Centre",
+    "LATITUDE": 49.278,
+    "LONGITUDE": -123.1235,
+    "ADDRESS": "609 Helmcken St",
+    "URLLINK": "http://vancouver.ca/parks-recreation-culture/gathering-place-community-centre.aspx"
+  }
+]
