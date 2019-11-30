@@ -20,6 +20,8 @@ dependencies {
     tomcat "org.apache.tomcat.embed:tomcat-embed-core:${tomcatVersion}",
             "org.apache.tomcat.embed:tomcat-embed-logging-juli:8.5.2",
             "org.apache.tomcat.embed:tomcat-embed-jasper:${tomcatVersion}"
+    implementation 'com.google.maps:google-maps-services:0.10.1'
+    implementation 'org.slf4j:slf4j-simple:1.7.25'
 }
 
 tomcat {
