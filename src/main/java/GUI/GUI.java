@@ -14,6 +14,9 @@ public class GUI extends JFrame implements ActionListener {
         setPreferredSize(new Dimension(700, 500));
         ((JPanel) getContentPane()).setBorder(new EmptyBorder(13, 13, 13, 13));
         setLayout(new FlowLayout());
+        button();
+
+
         pack();
         setLocationRelativeTo(null);
         setVisible(true);
@@ -22,10 +25,9 @@ public class GUI extends JFrame implements ActionListener {
     }
 
     public void button(){
-        JButton btn = new JButton("Location");
+        JButton btn = new JButton("Set Location");
         add(btn);
         btn.setLocation(350, 250);
-        btn.setVisible(true);
     }
 
     @Override
