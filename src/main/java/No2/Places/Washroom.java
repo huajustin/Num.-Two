@@ -58,9 +58,9 @@ public class Washroom implements Place {
 
                     try {
                         name = field.getAsJsonObject("fields").get("name").getAsString();
-                        longitude = Double.parseDouble(field.getAsJsonObject("fields").getAsJsonObject("geom").get("coordinates").getAsString().split(", ")[1]);
-                        latitude = Double.parseDouble(field.getAsJsonObject("fields").getAsJsonObject("geom").get("coordinates").getAsString().split(", ")[0]);
-                        address = field.getAsJsonObject("fields").getAsJsonObject("geom").get("address").getAsString();
+                        longitude = field.getAsJsonObject("fields").getAsJsonObject("geom").getAsJsonArray("coordinates").get(1).getAsDouble();
+                        latitude = field.getAsJsonObject("fields").getAsJsonObject("geom").getAsJsonArray("coordinates").get(0).getAsDouble();
+                        address = field.getAsJsonObject("fields").get("address").getAsString();
                     }
                     catch (Exception e) { /* ignore it for now */ }
 

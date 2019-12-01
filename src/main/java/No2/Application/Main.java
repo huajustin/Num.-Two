@@ -13,13 +13,10 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<Place> list = CommunityCenter.toList("data/Community_Centers.json");
+        List<Place> list = Washroom.toList("data/public-washrooms.json");
 
         for (Place p: list) {
-            System.out.print(p.name() + " ");
             System.out.println(p.address());
-            System.out.println(p.longitude());
-            System.out.println(p.latitude());
         }
     }
 }
