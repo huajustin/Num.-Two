@@ -6,7 +6,11 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+
+
 public class GUI extends JFrame implements ActionListener {
+
+    private JLabel first_label;
 
     public GUI(){
         super("Washroom nears me.");
@@ -15,6 +19,7 @@ public class GUI extends JFrame implements ActionListener {
         ((JPanel) getContentPane()).setBorder(new EmptyBorder(13, 13, 13, 13));
         setLayout(new FlowLayout());
         button();
+        MapImage();
 
 
         pack();
@@ -24,11 +29,18 @@ public class GUI extends JFrame implements ActionListener {
         setLayout(null);
     }
 
-    public void button(){
+    private void button(){
         JButton btn = new JButton("Set Location");
         add(btn);
         btn.setLocation(350, 250);
     }
+
+    private void MapImage(){
+        ImageIcon creeper = new ImageIcon("washrooms.png");
+        first_label = new JLabel("Creeper", creeper, SwingConstants.CENTER);
+        add(first_label);
+    }
+
 
     @Override
     public void actionPerformed(ActionEvent e) {
